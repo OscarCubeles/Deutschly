@@ -1,0 +1,111 @@
+{
+  "id": 1,
+  "title": "LEKTION 13 – WIR SUCHEN DAS HOTEL MARITIM",
+  "level": null,
+  "vocab": [
+    {"article": "die", "word": "Ampel", "translation": "traffic light"},
+    {"article": "die", "word": "Bank", "translation": "bank"},
+    {"article": "die", "word": "Brücke", "translation": "bridge"},
+    {"article": "der", "word": "Dom", "translation": "cathedral"},
+    {"article": "das", "word": "Hotel", "translation": "hotel"},
+    {"article": "die", "word": "Mitte", "translation": "middle; centre"},
+    {"article": "die", "word": "Stadtmitte", "translation": "city centre"},
+    {"article": "der", "word": "Plan", "translation": "map; plan"},
+    {"article": "der", "word": "Stadtplan", "translation": "city map"},
+    {"article": "die", "word": "Polizei", "translation": "police"},
+    {"article": "die", "word": "Post", "translation": "post office"},
+    {"article": "das", "word": "Zentrum", "translation": "centre"},
+    {"article": "der", "word": "Bahnhof", "translation": "train station"},
+    {"article": "das", "word": "Restaurant", "translation": "restaurant"},
+    {"article": "das", "word": "Café", "translation": "café"},
+    {"article": "der", "word": "Weg", "translation": "way; route"},
+    {"article": "die", "word": "Wegbeschreibung", "translation": "directions"},
+    {"article": "der", "word": "Kilometer", "translation": "kilometre"},
+    {"article": "der", "word": "Meter", "translation": "metre"},
+    {"article": "die", "word": "Nähe", "translation": "proximity"},
+    {"word": "links / nach links", "translation": "left / to the left"},
+    {"word": "rechts / nach rechts", "translation": "right / to the right"},
+    {"word": "abbiegen", "translation": "to turn"},
+    {"word": "weiterfahren", "translation": "to continue driving"},
+    {"word": "wenden", "translation": "to turn around"},
+    {"word": "zurückfahren", "translation": "to go back"},
+    {"word": "zurückkehren", "translation": "to return"},
+    {"word": "beschreiben", "translation": "to describe"},
+    {"word": "fremd", "translation": "unfamiliar; foreign"},
+    {"article": "die", "word": "Frage", "translation": "question"},
+    {"article": "der", "word": "Moment", "translation": "moment"},
+    {"word": "beide / die beiden", "translation": "both / the two"},
+    {"word": "anmachen", "translation": "to switch on"},
+    {"word": "einschalten", "translation": "to switch on"},
+    {"word": "finden", "translation": "to find"},
+    {"word": "fragen", "translation": "to ask"},
+    {"word": "helfen", "translation": "to help"},
+    {"word": "stimmen", "translation": "to be correct"},
+    {"word": "holen", "translation": "to fetch; get"}
+  ],
+  "expressions": [
+    {"expression": "in der Nähe", "translation": "nearby"},
+    {"expression": "Entschuldigung!", "translation": "Excuse me!"},
+    {"expression": "Entschuldigen Sie bitte.", "translation": "Excuse me, please."},
+    {"expression": "Können Sie mir helfen?", "translation": "Can you help me?"},
+    {"expression": "Kann ich Sie etwas fragen?", "translation": "Can I ask you something?"},
+    {"expression": "Haben Sie einen Moment Zeit?", "translation": "Do you have a moment?"},
+    {"expression": "Wo finde ich ...?", "translation": "Where can I find ...?"},
+    {"expression": "Ich suche ...", "translation": "I am looking for ..."},
+    {"expression": "Kennen Sie ...?", "translation": "Do you know ...?"},
+    {"expression": "Danke schön!", "translation": "Thank you!"},
+    {"expression": "Bitte, gern.", "translation": "You're welcome."},
+    {"expression": "Kein Problem.", "translation": "No problem."},
+    {"expression": "Tut mir leid.", "translation": "I'm sorry."},
+    {"expression": "Schade.", "translation": "That's a pity."},
+    {"expression": "Ach so.", "translation": "I see."},
+    {"expression": "Sehr nett!", "translation": "Very kind!"}
+  ],
+  "grammar_rules": [
+    {
+      "title": "Local prepositions with dative (Wo? – Where?)",
+      "explanation": "Use these prepositions with the dative to say where something is: an, auf, hinter, in, neben, über, unter, vor, zwischen.",
+      "examples": [
+        {"german": "Das Hotel ist neben dem Dom.", "english": "The hotel is next to the cathedral."},
+        {"german": "Das Café ist in der Stadtmitte.", "english": "The café is in the city centre."}
+      ]
+    },
+    {
+      "title": "Dative articles",
+      "explanation": "In the dative, der and das become dem, die becomes der, and plural die becomes den. Dative plural nouns usually add -n where possible.",
+      "examples": [
+        {"german": "der Bahnhof → dem Bahnhof", "english": "the train station (nominative → dative)"},
+        {"german": "das Restaurant → dem Restaurant", "english": "the restaurant (nominative → dative)"},
+        {"german": "die Ampel → der Ampel", "english": "the traffic light (nominative → dative)"},
+        {"german": "die Cafés → den Cafés", "english": "the cafés (nominative → dative)"}
+      ]
+    },
+    {
+      "title": "Common contractions",
+      "explanation": "In common usage, in dem contracts to im and an dem contracts to am.",
+      "examples": [
+        {"german": "in dem → im", "english": "in the"},
+        {"german": "an dem → am", "english": "at the; on the"}
+      ]
+    },
+    {
+      "title": "The verb helfen",
+      "explanation": "Helfen is an irregular verb. The stem changes from e to i in the du and er/sie forms.",
+      "examples": [
+        {"german": "ich helfe", "english": "I help"},
+        {"german": "du hilfst", "english": "you help"},
+        {"german": "er/sie hilft", "english": "he/she helps"}
+      ]
+    },
+    {
+      "title": "Imperative for giving directions",
+      "explanation": "Use the polite Sie imperative to give directions. The verb comes first, followed by Sie.",
+      "examples": [
+        {"german": "Fahren Sie geradeaus!", "english": "Go straight!"},
+        {"german": "Biegen Sie links ab!", "english": "Turn left!"},
+        {"german": "Wenden Sie!", "english": "Turn around!"},
+        {"german": "Gehen Sie zurück!", "english": "Go back!"}
+      ]
+    }
+  ]
+}

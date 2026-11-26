@@ -1,5 +1,6 @@
 from fastapi import FastAPI
-from app.api import lessons
+from app.api import lectures
+
 
 app = FastAPI(
     title="Deutschly",
@@ -8,7 +9,7 @@ app = FastAPI(
 )
 
 
-app.include_router(lessons.router, prefix="/lessons", tags=["lessons"])
+app.include_router(lectures.router, prefix="/lectures", tags=["lectures"])
 
 @app.get("/")
 def root():
